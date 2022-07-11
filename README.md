@@ -10,8 +10,8 @@ There is also a search bar where the user can type a specific keyword and when p
 
 Home page:
 
-![HomePage](ScreenShots/HomePage.png =x192)
+![HomePage](ScreenShots/HomePage.png)
 
 Search page:
 
-![SearchPage](ScreenShots/SearchPage.png =x192)
+![SearchPage](ScreenShots/SearchPage.png)
