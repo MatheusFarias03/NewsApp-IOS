@@ -11,7 +11,7 @@ import UIKit
 
 class HomeViewController: UIViewController, UITableViewDelegate {
 
-    let apiKey: String = "454a83fa14884bb7b225f6b03a92726a"
+    let apiKey: String = "API_KEY_HERE"
     var currentLocation: String = "us"
     var topNewsArray: [CellArticle] = []
     
